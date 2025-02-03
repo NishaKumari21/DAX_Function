@@ -1,4 +1,5 @@
 DAX Functions Overview 📊
+
 This repository provides an overview and examples of different DAX (Data Analysis Expressions) functions used in Power BI, Excel, and other Microsoft tools. DAX is a powerful language used for data manipulation and analytics, specifically in business intelligence platforms.
 
 Contents:
